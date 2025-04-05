@@ -1,0 +1,12 @@
+[submodule "microservices/temperature-processing-kotlin"]
+	path = microservices/temperature-processing-kotlin
+	url = https://github.com/WybsonSantana/temperature-processing-kotlin
+[submodule "microservices/device-management-java"]
+	path = microservices/device-management-java
+	url = https://github.com/WybsonSantana/device-management-java
+[submodule "microservices/temperature-monitoring-kotlin"]
+	path = microservices/temperature-monitoring-kotlin
+	url = https://github.com/WybsonSantana/temperature-monitoring-kotlin
+[submodule "microservices/device-management-kotlin"]
+	path = microservices/device-management-kotlin
+	url = https://github.com/WybsonSantana/device-management-kotlin
